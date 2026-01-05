@@ -10,3 +10,8 @@
 - Date: 2026-01-03
 - Status: Completed
 
+
+## [3] Setup Flask application structure
+- Date: 2026-01-05
+- Status: Completed
+
