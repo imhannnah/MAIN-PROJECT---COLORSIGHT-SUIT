@@ -85,3 +85,8 @@
 - Date: 2026-01-27
 - Status: Completed
 
+
+## [18] Implement deuteranopia simulation filter
+- Date: 2026-01-28
+- Status: Completed
+
