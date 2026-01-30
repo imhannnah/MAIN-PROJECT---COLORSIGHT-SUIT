@@ -90,3 +90,8 @@
 - Date: 2026-01-28
 - Status: Completed
 
+
+## [19] Add protanopia color transformation matrix
+- Date: 2026-01-30
+- Status: Completed
+
