@@ -100,3 +100,8 @@
 - Date: 2026-01-31
 - Status: Completed
 
+
+## [21] Add tritanopia simulation support
+- Date: 2026-02-02
+- Status: Completed
+
