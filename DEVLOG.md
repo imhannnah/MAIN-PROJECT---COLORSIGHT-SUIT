@@ -180,3 +180,8 @@
 - Date: 2026-02-25
 - Status: Completed
 
+
+## [37] Improve responsive design for mobile
+- Date: 2026-02-27
+- Status: Completed
+
