@@ -200,3 +200,8 @@
 - Date: 2026-03-03
 - Status: Completed
 
+
+## [41] Implement color blindness type selector
+- Date: 2026-03-05
+- Status: Completed
+
