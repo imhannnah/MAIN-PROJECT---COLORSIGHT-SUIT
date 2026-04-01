@@ -923,49 +923,6 @@ body {
    V2 — SECTION SHARED
 ════════════════════════════════════════ */
 
-.v2-sec-header {
-    text-align: center;
-    margin-bottom: 4rem;
-}
-
-.v2-sec-eyebrow {
-    display: inline-block;
-    font-family: var(--font-mono);
-    font-size: 0.7rem;
-    font-weight: 700;
-    letter-spacing: 0.14em;
-    text-transform: uppercase;
-    color: var(--primary);
-    border: 1px solid rgba(6,182,212,0.25);
-    background: rgba(6,182,212,0.06);
-    border-radius: 100px;
-    padding: 0.3rem 1rem;
-    margin-bottom: 1.2rem;
-}
-
-.v2-sec-title {
-    font-family: var(--font-h);
-    font-size: clamp(1.8rem, 3.5vw, 2.75rem);
-    font-weight: 800;
-    color: var(--white);
-    letter-spacing: -0.03em;
-    line-height: 1.15;
-    margin-bottom: 0.85rem;
-}
-
-.v2-sec-sub {
-    font-size: 1rem;
-    color: var(--muted);
-    max-width: 520px;
-    margin: 0 auto;
-    line-height: 1.65;
-}
-
-.v2-sec-sub strong {
-    color: var(--white);
-    font-weight: 600;
-}
-
 /* ════════════════════════════════════════
    V2 — CVD TYPES SECTION
 ════════════════════════════════════════ */
